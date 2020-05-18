@@ -7,7 +7,7 @@ package PacoteJava;
  */
 public class Imprimir {
     
-    public static void imprimirValor(String valor){
+    public static void main (String valor){
         System.out.println("Resposta = " +valor);
             
          }
@@ -15,5 +15,9 @@ public class Imprimir {
         return (num1 +num2);
         
         
+    }
+
+    static void imprimirValor(String camila_) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 }
